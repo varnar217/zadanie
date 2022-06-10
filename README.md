@@ -1,2 +1,4 @@
 "# zadanie" 
 # zadanie
+# zadanie
+# uslov
